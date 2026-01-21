@@ -10,22 +10,9 @@
 		5F75F6B02F2143CD00D85275 /* HelloWorldApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorldApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		5F75F6C22F2143CE00D85275 /* Exceptions for "HelloWorldApp" folder in "HelloWorldApp" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 5F75F6AF2F2143CD00D85275 /* HelloWorldApp */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		5F75F6B22F2143CD00D85275 /* HelloWorldApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				5F75F6C22F2143CE00D85275 /* Exceptions for "HelloWorldApp" folder in "HelloWorldApp" target */,
-			);
 			path = HelloWorldApp;
 			sourceTree = "<group>";
 		};
